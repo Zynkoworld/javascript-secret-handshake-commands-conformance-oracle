@@ -1,0 +1,11 @@
+{"input": 1, "expect": ["wink"], "raised": false, "task": "secret-handshake", "lang": "javascript"}
+{"input": 2, "expect": ["double blink"], "raised": false, "task": "secret-handshake", "lang": "javascript"}
+{"input": 4, "expect": ["close your eyes"], "raised": false, "task": "secret-handshake", "lang": "javascript"}
+{"input": 8, "expect": ["jump"], "raised": false, "task": "secret-handshake", "lang": "javascript"}
+{"input": 3, "expect": ["wink", "double blink"], "raised": false, "task": "secret-handshake", "lang": "javascript"}
+{"input": 19, "expect": ["double blink", "wink"], "raised": false, "task": "secret-handshake", "lang": "javascript"}
+{"input": 24, "expect": ["jump"], "raised": false, "task": "secret-handshake", "lang": "javascript"}
+{"input": 16, "expect": [], "raised": false, "task": "secret-handshake", "lang": "javascript"}
+{"input": 15, "expect": ["wink", "double blink", "close your eyes", "jump"], "raised": false, "task": "secret-handshake", "lang": "javascript"}
+{"input": 31, "expect": ["jump", "close your eyes", "double blink", "wink"], "raised": false, "task": "secret-handshake", "lang": "javascript"}
+{"input": 0, "expect": [], "raised": false, "task": "secret-handshake", "lang": "javascript"}
